@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/NoxxOP/ShrutixMusic">
+  <a href="https://heroku.com/deploy?template=https://Github.com/theopdev/musicrepo">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
   </a>
 </p>
